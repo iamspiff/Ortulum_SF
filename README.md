@@ -1,4 +1,4 @@
-MyDomain-Sample
+Fork of MyDomain-Sample
 ====================
 
 A simple example to brand your Salesforce My Domain
